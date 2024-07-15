@@ -1,9 +1,8 @@
-# RecommendOn - Movie Recommendation System for HackOn
+# Movie-Recommendation-System-using-Google's-USE
 
 ## Features
 
 - Content discovery and personalized Content Advisor leverages ML model powered by Natural Language Processing Model/Large Language Models (LLM), to offer finely tuned content recommendations based on user preferences and location.
-- Voice-activated commands, family-friendly filters, curated playlist
 
 ## Technology
 
@@ -11,9 +10,6 @@
 - Node/ExpressJS - for backend
 - Fast API to interact with ML model
 - Google's Universal Sentence Encoder to generate Vector Embeddings -> [tfhub.dev/google/universal-sentence-encoder/4](https://tfhub.dev/google/universal-sentence-encoder/4)
-- Rapid API - to interact with CHAT GPT
-- react-speech-recognition - to convert speech from the microphone to text and make it available to your React components
-- react-speech - to convert output from Chat-GPT to audio
 
 ## Running Locally
 
